@@ -8,7 +8,6 @@ import { Header } from './_components/Header'
 import { Providers } from './_providers'
 import { InitTheme } from './_providers/Theme/InitTheme'
 import { mergeOpenGraph } from './_utilities/mergeOpenGraph'
-import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import './_css/app.scss'
 const jost =  Jost({
